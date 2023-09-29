@@ -10,8 +10,6 @@
 
 ###My Stats From GitHub
 
-#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=>>>+My+GitHub+Stats)](https://git.io/typing-svg)
-
-![Govind's Stats](https://github-readme-stats.vercel.app/api?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![Govind's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&layout=full)
+![Govind's Stats](https://github-readme-stats.vercel.app/api?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&count_private=true&layout=compact)
+![Govind's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
