@@ -10,6 +10,6 @@
 
 ###My Stats From GitHub
 
-![Govind's Stats](https://github-readme-stats.vercel.app/api?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![Govind's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&count)
+![Govind's Stats](https://github-readme-stats.vercel.app/api?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&count_private=true_width=535)
+![Govind's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&count_width=535)
 
