@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there+im+Govind+Menon)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=Hello+there+im+Govind+Menon)](https://git.io/typing-svg)
 
 ###My Used Languages
 
@@ -11,5 +11,5 @@
 ###My Stats From GitHub
 
 ![Govind's Stats](https://github-readme-stats.vercel.app/api?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&count_private=true_layout=compact)
-![Govind's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![Govind's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=govindmenon69&theme=gotham&show_icons=true&hide_border=true&count)
 
